@@ -1,0 +1,18 @@
+{
+  "name": "biz-linejr",
+  "version": "1.0.0",
+  "description": "LineJR in JS ",
+  "main": "server.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.wwagentcc1123.com:darwin/biz-linejr.git"
+  },
+  "author": "Darwin Fegarido",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
